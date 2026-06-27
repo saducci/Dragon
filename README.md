@@ -2,10 +2,6 @@
 
 Hello! 👋
 This is my first project using **Raylib with C++**.
-It’s a small experiment/game where I’m learning how graphics, textures, and game loops work.
-
-Nothing fancy yet — just testing ideas, movement, and rendering. More features will be added over time 🚀
-
 ---
 
 ## ⚙️ Requirements
